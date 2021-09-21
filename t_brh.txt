@@ -1,3 +1,4 @@
 t_brh content
+new content in master
 from master
 agin in branch	
